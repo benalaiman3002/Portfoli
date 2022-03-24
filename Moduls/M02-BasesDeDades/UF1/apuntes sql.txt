@@ -1,0 +1,1 @@
+USE "nombre de base de datos"; - para utilizar una base de datos ya creada.

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Persona Gènere="Home" id="002">
+<NomCognoms>Paula Sastre</NomCognoms>
+<Telèfon>44444444</Telèfon>
+<email>paula@gmail.com</email>
+<soci>No</soci>
+<Persona Gènere="Dona" id="001">
+<NomCognoms>Pepe Gómez</NomCognoms>
+<Telèfon>55555555</Telèfon>
+<email>pepe@gmail.com</email>
+<soci>Si</soci>
+</Persona>
+</Persona>
