@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DAM>
+  <Grup1>
+  A
+    <Estudiante>
+      <Nombre> Ouassima </Nombre>
+      <Apellido> Kharkhour El Idrissi </Apellido>
+    </Estudiante>
+    <Estudiante>
+      <Nombre> Laura </Nombre>
+      <Apellido> Roldán García </Apellido>
+    </Estudiante>
+    <Estudiante>
+      <Nombre> Emira </Nombre>
+      <Apellido> Benali </Apellido>
+    </Estudiante>
+    <Estudiante>
+      <Nombre> Cristiano </Nombre>
+      <Apellido> Ronaldo </Apellido>
+    </Estudiante>
+    <Estudiante>
+      <Nombre> Nagato </Nombre>
+      <Apellido> Uzumaki </Apellido>
+    </Estudiante>
+  </Grup1>
+  <Grup2>
+  B
+    <Estudiante>
+      <Nombre> Aiman </Nombre>
+      <Apellido> Benali </Apellido>
+    </Estudiante>
+    <Estudiante>
+      <Nombre> Lionel </Nombre>
+      <Apellido> Messi </Apellido>
+    </Estudiante>
+    <Estudiante>
+      <Nombre> Adrià </Nombre>
+      <Apellido> Ferrer </Apellido>
+    </Estudiante>
+    <Estudiante>
+      <Nombre> Hagoromo </Nombre>
+      <Apellido> Otsutsuki </Apellido>
+    </Estudiante>
+    <Estudiante>
+      <Nombre> Hamura </Nombre>
+      <Apellido> Otsutsuki </Apellido>
+    </Estudiante>
+  </Grup2>
+</DAM>

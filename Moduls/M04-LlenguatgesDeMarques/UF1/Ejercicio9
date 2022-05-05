@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<song length="6:20" anio="1978">
+  <title>Hot Cop</title>
+    <compositores>
+      <composer>
+        <nombre>Henry</nombre>
+        <apellidos> Beolo</apellidos>
+      </composer>
+    </compositores>
+    <producers>
+    <producer>
+        <nombre>Jacques</nombre>
+        <apellido>Morali</apellido>
+      </producer>
+    </producers>
+    <publisher> Polygram </publisher>
+    <Artists> 
+      <artists> Village People </artists>
+    </Artists>
+</song>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Fruteria>
+<!--Maduixes-->
+  <Maduixes>
+    <Productores>
+    <CIF> </CIF>
+    <Nombre> </Nombre>
+    <Direccion> </Direccion>
+    </Productores>
+    <Codigo></Codigo>
+    <Nombre> </Nombre>
+    <NombreDelProductor></NombreDelProductor>
+    <TipusDeProducte>
+      <Alimento></Alimento>
+      <Fragilidad> </Fragilidad>
+      <Frigorifico> </Frigorifico>
+    </TipusDeProducte>
+    <Sección></Sección>
+    <Estoc> </Estoc>
+  </Maduixes>
+  <!--Peres-->
+  <Peres>
+    <Productores>
+      <CIF> </CIF>
+      <Nombre> </Nombre>
+      <Direccion> </Direccion>
+    </Productores>
+    <Codigo></Codigo>
+    <Nombre> </Nombre>
+    <NombreDelProductor></NombreDelProductor>
+    <TipusDeProducte>
+      <Alimento></Alimento>
+      <Fragilidad> </Fragilidad>
+      <Frigorifico> </Frigorifico>
+    </TipusDeProducte>
+    <Sección></Sección>
+    <Estoc> </Estoc>
+  </Peres>
+  <!--Suc-->
+  <Suc>
+  <Productores>
+      <CIF> </CIF>
+      <Nombre> </Nombre>
+      <Direccion> </Direccion>
+    </Productores>
+    <Codigo></Codigo>
+    <Nombre> </Nombre>
+    <NombreDelProductor></NombreDelProductor>
+    <TipusDeProducte>
+      <Alimento></Alimento>
+      <Fragilidad> </Fragilidad>
+      <Frigorifico> </Frigorifico>
+    </TipusDeProducte>
+    <Sección></Sección>
+    <Estoc> </Estoc>
+  </Suc>
+</Fruteria>

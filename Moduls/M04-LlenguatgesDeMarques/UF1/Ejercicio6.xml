@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Frutas>
+  <Fruta1>
+    <Nombre> Litchi </Nombre>
+    <Variedad> Kway may pink </Variedad>
+    <Ciudad> Filipinas </Ciudad>
+    <Color> Rosa </Color>
+    <Maduración> Agosto </Maduración>
+    <Reg> Diario </Reg>
+    <Precio> 3,5 €</Precio>
+  </Fruta1>
+  <Fruta2>
+    <Nombre> Longan </Nombre>
+    <Variedad> Champoo </Variedad>
+    <Ciudad> Xina </Ciudad>
+    <Color> Marron</Color>
+    <Maduración> Octubre </Maduración>
+   <Reg> Diario </Reg>
+    <Precio> 2,5 €</Precio>
+  </Fruta2>
+  <Fruta3>
+    <Nombre> Litchi </Nombre>
+    <Variedad> Mauritius </Variedad>
+    <Ciudad> Florida</Ciudad>
+    <Color> Rojo </Color>
+    <Maduración> Agosto </Maduración>
+   <Reg> Diario </Reg>
+    <Precio> 3€</Precio>
+  </Fruta3>
+</Frutas>

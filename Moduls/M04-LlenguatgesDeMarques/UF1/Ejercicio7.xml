@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Libreria>
+<!-- Datos de libro 1-->
+  <Libro1>
+    <Codigo> </Codigo>
+    <Titulo> </Titulo>
+    <Editorial> </Editorial>
+    <Edicion> </Edicion>
+    <ISBN> </ISBN>
+    <Páginas> </Páginas>
+    <Autor> </Autor>
+  </Libro1>
+  <!-- Datos de libro 2-->
+  <Libro2>
+    <Codigo> </Codigo>
+    <Titulo> </Titulo>
+    <Editorial> </Editorial>
+    <Edicion> </Edicion>
+    <ISBN> </ISBN>
+    <Páginas> </Páginas>
+    <Autor> </Autor>
+  </Libro2>
+  <!-- Datos de libro 3-->
+  <Libro3>
+    <Codigo> </Codigo>
+    <Titulo> </Titulo>
+    <Editorial> </Editorial>
+    <Edicion> </Edicion>
+    <ISBN> </ISBN>
+    <Páginas> </Páginas>
+    <Autor> </Autor>
+</Libro3>
+<!-- Datos de libro 4-->
+<Libro4>
+    <Codigo> </Codigo>
+    <Titulo> </Titulo>
+    <Editorial> </Editorial>
+    <Edicion> </Edicion>
+    <ISBN> </ISBN>
+    <Páginas> </Páginas>
+    <Autor> </Autor>
+  </Libro4>
+  <!-- Datos de libro 5-->
+  <Libro5>
+    <Codigo> </Codigo>
+    <Titulo> </Titulo>
+    <Editorial> </Editorial>
+    <Edicion> </Edicion>
+    <ISBN> </ISBN>
+    <Páginas> </Páginas>
+    <Autor> </Autor>
+  </Libro5>
+  <!-- Datos de libro 6-->
+  <Libro6>
+    <Codigo> </Codigo>
+    <Titulo> </Titulo>
+    <Editorial> </Editorial>
+    <Edicion> </Edicion>
+    <ISBN> </ISBN>
+    <Páginas> </Páginas>
+    <Autor> </Autor>
+  </Libro6>
+</Libreria>

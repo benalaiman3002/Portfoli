@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<jardí xmlns:a="/home/fta/Dropbox/Curs_2020_2021/M04/UF1/XML/arbre.xml"  xmlns:f=" /home/fta/Dropbox/Curs_2020_2021/M04/UF1/XM/flor.xml">
+    <nom>Jardi XML</nom>
+    <adreça>C/Jardí, 1</adreça>
+    <població>Terrassa</població>
+    <a:arbre  a:codi="P0001" a:preu="25,5">
+    <a:nom>Pomer</a:nom>
+    <a:varietat>Royal Red</a:varietat>
+    <a:color-fruit>vermell</a:color-fruit>
+    <a:maduració>agost - setembre</a:maduració>
+    </a:arbre>
+    <f:flor f:codi="F0001" f:preu="13">
+    <f:nom>Rosa</f:nom>
+    <f:varietat>Artistry</f:varietat>
+    <f:color>rosat</f:color>
+    <f:floració>agost - setembre</f:floració>
+  </f:flor>
+  </jardí>
