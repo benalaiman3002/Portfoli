@@ -1,1 +1,1 @@
-Seguretat i rendiment
+Seguretat, rendiment i recursos
