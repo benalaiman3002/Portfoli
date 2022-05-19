@@ -1,1 +1,1 @@
-Holahola
+Seguretat i rendiment
